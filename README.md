@@ -43,8 +43,17 @@
 <a href="https://linkedin.com/in/ahmedeltantawi7" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
 </a>
+
 <a href="https://discord.gg/ahmed.eltantawi" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40"/>
+</a>
+
+<a href="mailto:ahmedeltantawi73@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+</a>
+
+<a href="https://ahmedeltantawi.netlify.app/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40"/>
 </a>
 </p>
 
