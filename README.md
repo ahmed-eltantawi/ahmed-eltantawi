@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmed Eltantawi 👋
 
-### Flutter Developer · Mobile App Developer · Software Engineering @ FCIS
+### Flutter Developer · Mobile App Developer · Software Engineering @ Zikola agency
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Flutter+Developer;Mobile+App+Developer;Software+Engineering+%40+FCIS" alt="Typing SVG" />
 
@@ -94,18 +94,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-eltantawi&show_icons=true&locale=en&theme=dark" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-eltantawi&theme=dark" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-eltantawi&layout=compact&theme=dark" />
-</div>
-
-<br/>
 
 ## 📫 Let's Connect
 
@@ -120,8 +108,3 @@
 
 <br/>
 
-<div align="center">
-
-### "First, solve the problem. Then, write the code."
-
-</div>
