@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ahmed-eltantawi&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/ahmed-eltantawi)
 [![GitHub followers](https://img.shields.io/github/followers/ahmed-eltantawi?style=for-the-badge&color=0e75b6&labelColor=1a1a2e)](https://github.com/ahmed-eltantawi?tab=followers)
 
-📍 Mansoura, Egypt &nbsp;•&nbsp; 📞 +20 102 010 1740
+📍 Egypt &nbsp;•&nbsp; 📞 +20 102 010 1740
 
 </div>
 
