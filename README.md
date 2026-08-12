@@ -20,7 +20,7 @@
 - Flutter Developer with hands-on experience building **10+ cross-platform mobile apps** using Dart across real-world **fintech and e-commerce** projects
 - Experienced in responsive UI development, **RESTful API & Firebase integration**, and secure authentication
 - Strong in **Clean Architecture, MVVM, BLoC/Cubit, and SOLID**, with a focus on maintainable code, reusable components, and performance optimization
-- Bachelor of Software Engineering, Faculty of Computers and Information Sciences, Mansoura University — GPA 3.8/4.0 (2025)
+- Bachelor of Software Engineering, Faculty of Computers and Information Sciences, Mansoura University — GPA 3.8/4.0
 - Leverages AI-assisted tools like Claude, ChatGPT, and Cursor to accelerate development and debugging
 
 <br/>
@@ -122,7 +122,5 @@
 <br/>
 
 <div align="center">
-
-### "First, solve the problem. Then, write the code."
 
 </div>
