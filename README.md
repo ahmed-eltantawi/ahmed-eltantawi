@@ -24,8 +24,8 @@
 
 ## 💼 Experience
 
-- **Flutter Developer Intern** — [Growfet](https://www.growfet.com/)
-- **Flutter Developer Intern** — [Zikolaa](https://zikolaa.com/)
+- **Flutter Developer** — [Growfet](https://www.growfet.com/)
+- **Flutter Developer** — [Zikola agency](https://zikolaa.com/)
 
 <br/>
 
