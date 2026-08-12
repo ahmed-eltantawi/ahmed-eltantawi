@@ -27,7 +27,7 @@
 
 ## 💼 Experience
 
-**Flutter Developer Intern** — Zikola Agency `05/2026 – 08/2026`
+**Flutter Developer** — Zikola Agency `05/2026 – 08/2026`
 - Integrated 10+ RESTful APIs using Dio and handled network responses efficiently
 - Implemented secure authentication with access/refresh tokens across 3+ app modules
 - Applied MVVM architecture to build scalable, maintainable Flutter applications
@@ -39,34 +39,6 @@
 - Refactored app modules into reusable components, reducing code duplication
 - Fixed 20+ bugs and performance issues, improving stability and user experience
 
-**Flutter Developer Training** — IEEE Mansoura Computer Society Chapter `02/2026 – Present`
-- Built 5+ cross-platform mobile apps using Flutter and Dart with high-performance UIs
-- Applied MVVM and BLoC/Cubit, reducing development time by 20%
-- Integrated RESTful APIs for real-time data handling and dynamic interactions
-
-<br/>
-
-## 🚀 Featured Projects
-
-**Stylish** — E-Commerce Mobile App @ Zikola Agency `06/2026`
-- MVVM architecture, responsive UI, REST API integration with robust error handling
-- Auth token management, caching, secure local storage, Arabic/English localization
-- Singleton pattern & dependency injection with GetIt
-
-**Jameya App** — FinTech App @ Zikola Agency `08/2026`
-- Built OTP login, KYC, savings-circle enrollment, and installment tracking screens
-- Bilingual Arabic (RTL) / English (LTR) UI, integrated with auth/circles/payments APIs
-- Worked in Agile sprints following a full SRS/BRD spec
-
-**Khalta** — AI Ingredient & Recipe Manager `05/2026`
-- Computer vision to auto-detect ingredients from user photos
-- Gemini AI integration to generate recipes from available items
-- Virtual fridge with real-time ingredient organization
-
-**Fervo Chat App** — Real-time Chat with Secure Auth `02/2026`
-- Real-time messaging with Cloud Firestore streams
-- BLoC/Cubit state management with clean MVVM separation
-- Firebase Auth (Email/Password, OTP, Google, Facebook) + dynamic theming
 
 <br/>
 
@@ -135,18 +107,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-eltantawi&show_icons=true&locale=en&theme=dark" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-eltantawi&theme=dark" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-eltantawi&layout=compact&theme=dark" />
-</div>
-
-<br/>
 
 ## 📫 Let's Connect
 
