@@ -81,12 +81,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-eltantawi&show_icons=true&locale=en&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-eltantawi&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-eltantawi&layout=compact&theme=dark" />
-</p>
