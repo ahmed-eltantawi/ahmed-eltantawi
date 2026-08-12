@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Eltantawi</h1>
-<h3 align="center">Flutter Developer | Mobile App Developer | Software Engineering @ FCIS</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Developer;Software+Engineering+%40+FCIS" alt="Typing SVG" />
+</p>
 
 <p align="center">
   📫 <a href="mailto:ahmedeltantawi73@gmail.com">Email</a> • 
@@ -57,6 +60,13 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,kotlin,sqlite,mysql,git,postman,figma,xd,c,swift" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed-eltantawi/ahmed-eltantawi/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
