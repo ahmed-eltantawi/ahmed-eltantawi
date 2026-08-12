@@ -66,16 +66,27 @@
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-eltantawi/ahmed-eltantawi/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-eltantawi/ahmed-eltantawi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-eltantawi/ahmed-eltantawi/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ahmed-eltantawi/ahmed-eltantawi/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-eltantawi&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-eltantawi&show_icons=true&locale=en" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-eltantawi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-eltantawi&show_icons=true&locale=en&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-eltantawi&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-eltantawi&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-eltantawi&layout=compact&theme=dark" />
 </p>
