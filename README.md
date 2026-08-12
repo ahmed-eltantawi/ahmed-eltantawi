@@ -2,7 +2,6 @@
 <h3 align="center">Flutter Developer | Mobile App Developer | Software Engineering @ FCIS</h3>
 
 <p align="center">
-  🌐 <a href="https://ahmedeltantawi.netlify.app/">Portfolio</a> • 
   📫 <a href="mailto:ahmedeltantawi73@gmail.com">Email</a> • 
   💼 <a href="https://linkedin.com/in/ahmedeltantawi7">LinkedIn</a>
 </p>
@@ -10,10 +9,18 @@
 ---
 
 ### 👨‍💻 About Me
+
 - Flutter Developer passionate about building **scalable mobile applications**
 - Strong foundation in **Clean Architecture & SOLID principles**
 - Experienced with **BLoC / Cubit, REST APIs, Firebase, and offline-first apps**
 - Focused on writing **maintainable, testable, and production-ready code**
+
+---
+
+### 💼 Experience
+
+- **Flutter Developer Intern** — [Growfet](https://www.growfet.com/)
+- **Flutter Developer Intern** — [Zikolaa](https://zikolaa.com/)
 
 ---
 
@@ -27,14 +34,8 @@
   </a> 
 </p>
 
-- 👨‍💻 All of my projects are available at:  
-  👉 https://ahmedeltantawi.netlify.app/
-
-- 📫 How to reach me:  
+- 📫 How to reach me:
   👉 **ahmedeltantawi73@gmail.com**
-
-- 📄 Know about my experiences:  
-  👉 https://ahmedeltantawi.netlify.app/Ahmed-Eltantawi.pdf
 
 ---
 
@@ -43,24 +44,17 @@
 <a href="https://linkedin.com/in/ahmedeltantawi7" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
 </a>
-
 <a href="https://discord.gg/ahmed.eltantawi" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40"/>
 </a>
-
 <a href="mailto:ahmedeltantawi73@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
-</a>
-
-<a href="https://ahmedeltantawi.netlify.app/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40"/>
 </a>
 </p>
 
 ---
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,kotlin,sqlite,mysql,git,postman,figma,xd,c,swift" />
 </p>
@@ -72,7 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-eltantawi&show_icons=true&locale=en" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-eltantawi" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-eltantawi&layout=compact" />
 </p>
